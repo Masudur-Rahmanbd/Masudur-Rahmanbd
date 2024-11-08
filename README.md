@@ -44,7 +44,7 @@ I’m a front-end web developer passionate about making error-free websites with
 .✈️ Travelling
 
 <h3 align="left">Languages:</h3>
-<p>🇧🇩 Bangla : Native
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-🇮🇳 Hindi : Intermediate
-🇧🇷 Portugues : Basic</p>
+<p>🇧🇩 Bangla : Native</p></br>
+<p>English : Advanced</p></br>
+<p>🇮🇳 Hindi : Intermediate</p>
+
