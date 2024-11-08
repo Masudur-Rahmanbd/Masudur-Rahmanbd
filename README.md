@@ -42,3 +42,9 @@ I’m a front-end web developer passionate about making error-free websites with
 <p>.🏏 Cricket, ⚽ Football, 🏸 Badminton</p></br>
 <p>.🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p></br>
 .✈️ Travelling
+
+<h3 align="left">Languages:</h3>
+<p>🇧🇩 Bangla : Native
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+🇮🇳 Hindi : Intermediate
+🇧🇷 Portugues : Basic</p>
