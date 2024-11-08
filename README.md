@@ -37,3 +37,8 @@ I’m a front-end web developer passionate about making error-free websites with
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Masudur-Rahmanbd)  
 
+
+<h3 align="left">Sports / Game / Activities / Hobby:</h3>
+🏏 Cricket, ⚽ Football, 🏸 Badminton
+🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+✈️ Travelling
