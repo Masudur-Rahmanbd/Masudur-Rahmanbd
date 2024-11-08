@@ -39,12 +39,12 @@ I’m a front-end web developer passionate about making error-free websites with
 
 
 <h3 align="left">Sports / Game / Activities / Hobby:</h3>
-<p>.🏏 Cricket, ⚽ Football, 🏸 Badminton</p></br>
-<p>.🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p></br>
+<p>.🏏 Cricket, ⚽ Football, 🏸 Badminton</p>
+<p>.🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p>
 .✈️ Travelling
 
 <h3 align="left">Languages:</h3>
-<p>🇧🇩 Bangla : Native</p></br>
-<p>English : Advanced</p></br>
+<p>🇧🇩 Bangla : Native</p>
+<p>English : Advanced</p>
 <p>🇮🇳 Hindi : Intermediate</p>
 
