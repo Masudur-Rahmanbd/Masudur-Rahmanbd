@@ -39,6 +39,6 @@ I’m a front-end web developer passionate about making error-free websites with
 
 
 <h3 align="left">Sports / Game / Activities / Hobby:</h3>
-<p>🏏 Cricket, ⚽ Football, 🏸 Badminton</p>🏏</br>
-<p>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p></br>
-✈️ Travelling
+<p>.🏏 Cricket, ⚽ Football, 🏸 Badminton</p></br>
+<p>.🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p></br>
+.✈️ Travelling
