@@ -4,9 +4,9 @@
 
 I’m a front-end web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with include ReactJS, JavaScript as well
 
-My Skills
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">My Skills:</h3>
 <p align="left">
 </p>
 
