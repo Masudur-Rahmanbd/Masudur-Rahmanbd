@@ -7,7 +7,6 @@ I’m a front-end web developer passionate about making error-free websites with
 
 
 <h3 align="left">My Skills:</h3>
-[(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://github.com/Masudur-Rahmanbd/Masudur-Rahmanbd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <p align="left">
 </p>
 
