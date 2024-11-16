@@ -1,8 +1,12 @@
-### Hi there 👋, I'm Masudur Rahman
-#### Web Developer
-![Web Devoloper][(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://github.com/Masudur-Rahmanbd/Masudur-Rahmanbd/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQEBImVZ65xw_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731763034519?e=1736985600&v=beta&t=OuDhebHXyp4Mk4kYv7TPBZemnuXeW9V4HqXTCpy8qo4)
 
-I’m a front-end web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with include ReactJS, JavaScript as well
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+
+
+
 
 
 
