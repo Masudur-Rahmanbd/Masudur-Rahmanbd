@@ -38,7 +38,7 @@ I’m a front-end web developer passionate about making error-free websites with
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Masudur-Rahmanbd/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Masudur-Rahmanbd)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Masudur-Rahmanbd)  
 
