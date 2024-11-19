@@ -43,6 +43,16 @@ I’m a front-end web developer passionate about making error-free websites with
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Masudur-Rahmanbd)  
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masudurrahmanbd" alt="masudurrahmanbd" /></a> </p>
+
+
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masudurrahmanbd&show_icons=true&locale=en" alt="masudurrahmanbd" /></p>
+
+
+
 <h3 align="left">Sports / Game / Activities / Hobby:</h3>
 <p>🏏 Cricket, ⚽ Football, 🏸 Badminton</p>
 <p>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</p>
