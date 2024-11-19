@@ -40,9 +40,6 @@ I’m a front-end web developer passionate about making error-free websites with
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Masudur-Rahmanbd)  
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudurrahmanbd&label=Profile%20views&color=0e75b6&style=flat" alt="masudurrahmanbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masudurrahmanbd" alt="masudurrahmanbd" /></a> </p>
